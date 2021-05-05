@@ -29,7 +29,7 @@
     <div class="row featurette">
       <div class="col-md-7">
         <h2 class="featurette-heading">A LITTLE ABOUT <span class="text-muted">ME.</span></h2>
-        <p class="lead">Welcome to my Home page. I am a part time instructor at CSULB. I also graduated from CSULB in the Business Department. I have been here for about 22 years. I started out teaching CECS 110 and from that course I developed CECS 200 because of the interest is strictly Web design. The course has been added as part of the requirements for a minor and certificate in Web Technology and Applications along with the CECS 110 course. I completed my Masters degree in Educational Technology in 2006, which I completed completely online.ghter is in 11th grade not sure what she wants to do after high school. They both keep me busy along with our 2 dogs and 2 cats</p>
+        <p class="lead">Hello, My name is Rod Agatep, I am currently a freshman student attending CSULB in computer engineering. </p>
       </div>
       <div class="col-md-5">
         <img src="allenr6x6.jpg" alt="Roni Allen" width="400" height="400">
@@ -42,25 +42,23 @@
 <div class="row featurette">
       <div class="col-md-7">
           <ul>
-          <li>CECS100 - Critical Thinking in the Digital Information Age</li>  
-            <li>CECS105 - Introduction to CECS</li>
-          <li>CECS110 - Beginning Web</li>
-            <li>CECS174 - Introduction to Programming</li>
-            <li>CECS200 - intermediate Web</li>
-            <li>CECS300 - Dynamic Web</li>
-          
+          <li>CECS100 - PLaying Video Games</li>  
+            <li>CECS105 - Reading</li>
+          <li>CECS110 - Drawing</li>
+            <li>CECS174 - Going on Walks</li>
+            
           </ul>
         
       </div>
       <div class="col-md-5">
-         <h2 class="featurette-heading">CLASSES I HAVE BEEN  <span class="text-muted">TEACHING.</span></h2>
+         <h2 class="featurette-heading">SOME OF MY HOBBIES  <span class="text-muted">TEACHING.</span></h2>
       </div>
     </div>
  
    <hr class="featurette-divider">    
     
 <div class="jumbotron text-center" style="margin-bottom:0">
-  <p>Created by <a href="mailto:r.allen@csulb.edu">Roni Allen</a> -  <a href="https://www.csulb.edu/college-of-engineering/roni-allen" target="_blank">CECS PT Faculty</a></p><p>Last updated on 4-29-21</p>
+  <p>Created by <a href="mailto:r.allen@csulb.edu">Rod Agatep</a> -  <a href="https://www.csulb.edu/college-of-engineering/roni-allen" target="_blank">CECS PT Faculty</a></p><p>Last updated on 4-29-21</p>
     <i class="fas fa-chalkboard-teacher" style="font-size:60px;color:gold;text-shadow:2px 2px 4px #000000;"></i>
 </div>
     </div>
